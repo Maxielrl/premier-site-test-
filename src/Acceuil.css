@@ -1,0 +1,12 @@
+.fond{
+    background-image: url('./image/ww.jpg'); 
+    background-position: center;
+    background-size: cover;
+    padding: 1em;
+    text-align: center;
+    height: 100vh;
+}
+p{
+    color: black;
+    font-size: 50px;
+}  

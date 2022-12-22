@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+  margin:0px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+div{
+  margin:0px;
+}
+.centre{background-color: rgb(255, 255, 255);}
+.espace{margin-top: 100px;}
+h1:hover{color:aqua}
