@@ -6,10 +6,10 @@ function Unvelo(props){
     return (
         <div className='container mt-5'>
             <div className='row'>
-                <div className='col-md-6'>
+                <div className='col-md-6 col-sm-12 mt-5'>
                 <img height='300' src={props.listevelo[identifient-1].img}></img>
                 </div>
-                <div className='col-md-6'>
+                <div className='col-md-6 col-sm-12 mt-5'>
                     <h1>{props.listevelo[identifient-1].nom}</h1>
                     <p style={{fontSize: 20}}>{props.listevelo[identifient-1].type}</p>
                 </div>
